@@ -5,7 +5,7 @@
 🎓 **Idade:** 16 anos  
 💻 **Estudante de Programação**  
 🚀 **Aprendendo:** C# e Lógica de Programação  
-🎯 **Objetivo:** Me tornar um desenvolvedor incrível e criar projetos que impactem o mundo.  
+🎯 **Objetivo:** Me tornar um desenvolvedor e criar projetos.
 
 ---
 
